@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{7C7C2135-7C2A-A80F-7E9B-B6FFEDBFB23E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Restart.cs">
+    <Files>
+      <File FileName="../Desktop/:Users:ma055:Brick Breaker:Assets:Scripts:PlayerController.cs" Line="17" Column="75" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="34" Column="6" />
+      <File FileName="Assets/Scripts/Mover.cs" Line="10" Column="24" />
+      <File FileName="Assets/Scripts/destroyOut.cs" Line="11" Column="33" />
+      <File FileName="Assets/Scripts/destroyOnContact.cs" Line="8" Column="6" />
+      <File FileName="Assets/Scripts/Bricks.cs" Line="25" Column="6" />
+      <File FileName="Assets/Scripts/GameController.cs" Line="33" Column="29" />
+      <File FileName="Assets/Scripts/Menu.cs" Line="20" Column="40" />
+      <File FileName="Assets/Scripts/menuGame.cs" Line="20" Column="37" />
+      <File FileName="Assets/Scripts/Restart.cs" Line="4" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Brick_220Breaker PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
